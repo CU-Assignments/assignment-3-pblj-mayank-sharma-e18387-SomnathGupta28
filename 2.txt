@@ -1,0 +1,24 @@
+1.
+
+Enter a number: -16
+Error: Cannot calculate the square root of a negative number.
+
+Enter a number: 25
+Square root of 25.0 is: 5.0
+
+
+2.
+
+Enter PIN: 1234
+Withdraw Amount: 5000
+
+Error: Insufficient balance. Current Balance: 3000.0
+Remaining Balance: 3000.0
+
+
+3.
+
+Enroll in Course: Advanced Java
+Prerequisite: Core Java
+
+Successfully enrolled in Advanced Java
